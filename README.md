@@ -27,6 +27,11 @@ Keylogger is a tool which is used to record keystrokes by a user. This tool is f
 - Steghide must be in a path of your system.
 - Must connect to the internet.
 
+## Tools
+![Keylogger](https://github.com/Siddharth-Chandel/Key-Logger/blob/main/Images/Keylogger.png)
+![Python](https://github.com/Siddharth-Chandel/Key-Logger/blob/main/Images/Python.png)
+![Steganography](https://github.com/Siddharth-Chandel/Key-Logger/blob/main/Images/Steganography.png)
+
 ## Author
 
 - [@Siddharth Chandel](https://www.github.com/Siddharth-Chandel)
