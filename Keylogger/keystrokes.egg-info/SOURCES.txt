@@ -1,8 +1,0 @@
-setup.py
-keylogger/__init__.py
-keylogger/keylogger.py
-keystrokes.egg-info/PKG-INFO
-keystrokes.egg-info/SOURCES.txt
-keystrokes.egg-info/dependency_links.txt
-keystrokes.egg-info/requires.txt
-keystrokes.egg-info/top_level.txt
